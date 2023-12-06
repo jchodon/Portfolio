@@ -4,6 +4,7 @@
   position: relative;
   display: flex;
   align-items: center;
+
   justify-content: space-between;
   padding-top: 61px;
   z-index: 2;
@@ -15,6 +16,7 @@
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
+  margin-left: -15%;
 }
 
 .menu {
