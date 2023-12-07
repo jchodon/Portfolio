@@ -6,17 +6,17 @@ import React from "react";
 function About() {
   return (
     <section className={styles.container}>
-      <h2> About Me </h2>
-      <div>
+      <h2 className={styles.title}> About Me </h2>
+      <div className={styles.content}>
         <img
           src={getImageUrl("about/fairy.png")}
           alt="cottage picture for the portfolio site"
           className={styles.img}
         />
-        <ul>
-          <li>
+        <ul className={styles.aboutItems}>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/servericon.png")} alt="cursor icon" />
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>FullStack Developer</h3>
               <p>
                 As a full-stack developer, I blend front-end elegance with
@@ -25,15 +25,15 @@ function About() {
               </p>
             </div>
           </li>
-          <li>
+          <li className={styles.aboutItem}>
             <img
               src={getImageUrl("about/crochet.png")}
               alt="yarn with hooks icon"
             />
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>Creative Thinker</h3>
               <p>
-                Beyong code, my creativity flourishes in crochet, a hobby that
+                Beyond code, my creativity flourishes in crochet, a hobby that
                 intertwines the threads of creativity and precicion- much like
                 my approach to coding and design.
               </p>
