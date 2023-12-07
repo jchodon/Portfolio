@@ -6,10 +6,13 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}> Hello!</h1>
+        <h1 className={styles.title}> Hi!</h1>
         <p className={styles.description}>
-          I am a full-stack developer currently based in Toronto. I am
-          passionate about creating inclusive and interactive user experience.
+          I am a full-stack developer, based in Toronto, who is deeply committed
+          to continuous learning and keeping pace with the evolving tech
+          landscape. My focus is on building responsive and accessible web
+          applications, ensuring they provide a seamless experience across all
+          devices and are user-friendly for everyone.
         </p>
         <a href="mailto:jigcho27@gmail.com" className={styles.contactBtn}>
           Contact Me
