@@ -52,10 +52,12 @@
   .menuBtn {
     display: block;
     cursor: pointer;
+    margin-right: -80px;
   }
   .menuItems {
     display: none;
     flex-direction: column;
+    margin-right: -140px;
     align-items: center;
     gap: 13px;
     border-radius: 10px;

@@ -20,8 +20,8 @@ const Navbar = () => {
           }
           className={styles.menuBtn}
           alt="menu-button"
-          width="43rem"
-          height="43rem"
+          width="48rem"
+          height="48rem"
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul

@@ -5,14 +5,9 @@ import React from "react";
 
 function About() {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="about">
       <h2 className={styles.title}> About Me </h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/fairy.png")}
-          alt="cottage picture for the portfolio site"
-          className={styles.img}
-        />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/servericon.png")} alt="cursor icon" />
@@ -40,6 +35,11 @@ function About() {
             </div>
           </li>
         </ul>
+        <img
+          src={getImageUrl("about/fairy.png")}
+          alt="cottage picture for the portfolio site"
+          className={styles.img}
+        />
       </div>
     </section>
   );
