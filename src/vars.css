@@ -1,10 +1,15 @@
 :root {
   /* color */
   --color-text: #fff;
-  --color-primary: #bc6c25;
+  /* --color-primary: #bc6c25;
   --color-secondary: #dda15e;
   --color-bg: #606c38;
-  --color-dark: #283618;
+  --color-dark: #283618; */
+  --color-primary: #cad2c5;
+  --color-secondary: #84a98c;
+  --color-bg: #52796f;
+  --color-dark: #2f3e46;
+
   /* font */
   --font-mont: "montserrat";
 }
