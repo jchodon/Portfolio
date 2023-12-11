@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Backend developer",
+    "organisation": "Girl Develop It Hackathon",
+    "startDate": "November 8 2023",
+    "experiences": [
+      "Implemented OAuth for secure authentication",
+      "Set up MongoDB for efficient data management",
+      "Facilitated team communication for smooth collaboration"
+    ],
+    "imageSrc": "history/GDI.png"
+  },
+  {
+    "role": "Volunteer",
+    "organisation": "Girl Develop It",
+    "startDate": "August 15 2023",
+    "experiences": [
+      "Gained insights into emerging technologies and industry trends relevant to web development",
+      "Developed organizational skills through event setup, beneficial for managing web projects",
+      "Enhanced collaboration and networking abilities, key for teamwork in web development roles"
+    ],
+    "imageSrc": "history/GDI.png"
+  }
+]
