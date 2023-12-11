@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/hero/Hero";
 import About from "./components/About/About";
 import Projects from "./components/projects/projects";
+import Experience from "./components/Experience/Experience";
 // @ts-ignore
 import styles from "./App.module.css";
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <About />
       <Projects />
+      <Experience />
     </div>
   );
 }
