@@ -7,7 +7,7 @@ function ProjectCard({
   project: { title, imageSrc, description, skills, demo, source },
 }) {
   return (
-    <div>
+    <div className={styles.container}>
       <img
         className={styles.image}
         src={getImageUrl(imageSrc)}

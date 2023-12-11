@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}> Hello!</h1>
+        <h1 className={styles.title}> Hi, my name is Jigme!</h1>
         <p className={styles.description}>
           I am a full-stack developer, based in Toronto, who is deeply committed
           to continuous learning in this evolving tech landscape. My focus is on
