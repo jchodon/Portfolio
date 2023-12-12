@@ -58,3 +58,8 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+.link:hover {
+  background-color: #03045e;
+  transition: 1s;
+  box-shadow: 5px 5px 5px 5px rgb(142, 154, 175);
+}

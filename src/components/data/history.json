@@ -12,13 +12,13 @@
   },
   {
     "role": "Volunteer",
-    "organisation": "Girl Develop It",
+    "organisation": "Blockchain Futurist Conference",
     "startDate": "August 15 2023",
     "experiences": [
       "Gained insights into emerging technologies and industry trends relevant to web development",
       "Developed organizational skills through event setup, beneficial for managing web projects",
       "Enhanced collaboration and networking abilities, key for teamwork in web development roles"
     ],
-    "imageSrc": "history/GDI.png"
+    "imageSrc": "history/blockchain.png"
   }
 ]
