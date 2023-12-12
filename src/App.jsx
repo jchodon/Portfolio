@@ -5,6 +5,7 @@ import Hero from "./components/hero/Hero";
 import About from "./components/About/About";
 import Projects from "./components/projects/projects";
 import Experience from "./components/Experience/Experience";
+import Contact from "./components/Contact/Contact";
 // @ts-ignore
 import styles from "./App.module.css";
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Projects />
       <Experience />
+      <Contact />
     </div>
   );
 }

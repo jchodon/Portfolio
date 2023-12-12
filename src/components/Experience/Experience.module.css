@@ -24,13 +24,14 @@
   width: 45%;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  gap: 47px;
+  align-content: start;
 }
 .skill {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 11px;
+  gap: 21px;
 }
 .skillImageContainer {
   background-color: var(--color-secondary);
@@ -62,7 +63,7 @@
   align-items: center;
   gap: 17px;
   background: var(--color-secondary);
-  background: linear-gradient(90deg, #a3b18a 0%, #68b0ab 100%);
+  background: linear-gradient(90deg, #a3b18a 0%, #52796f 100%);
   border-radius: 10px;
   padding: 24px;
 }
@@ -80,4 +81,27 @@
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
+}
+.historyItemDetails ul {
+  margin-top: 6px;
+  list-style-position: inside;
+  font-size: 25px;
+  list-style-type: disc;
+  margin-left: 17px;
+}
+@media screen and (max-width: 830px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
+  .skills {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .history {
+    width: 100%;
+    gap: 9px;
+  }
 }

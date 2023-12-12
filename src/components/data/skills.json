@@ -16,7 +16,7 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "javascript",
+    "title": "Javascript",
     "imageSrc": "skills/javascript.png"
   },
   {
@@ -28,7 +28,7 @@
     "imageSrc": "skills/express.png"
   },
   {
-    "title": "vite",
+    "title": "Vite",
     "imageSrc": "skills/vite.png"
   }
 ]
