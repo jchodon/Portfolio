@@ -2,6 +2,7 @@ import React from "react";
 import skills from "../data/skills.json";
 import history from "../data/history.json";
 import { getImageUrl } from "../../utils";
+// @ts-ignore
 import styles from "./Experience.module.css";
 function Experience() {
   return (

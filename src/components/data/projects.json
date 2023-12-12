@@ -1,11 +1,12 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/yelpcamp.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Class Connect",
+    "imageSrc": "projects/classConnect.png",
+    "description": "Classroom Connect combines video conferencing and live chat for an enhanced classroom experience. Secured 2nd place at GDI Hackathon 2023 due to the help from my team and the organizers!",
+    "skills": ["JavaScript", "React", "Express", "Node", "MongoDB", "Git"],
+    "demo": "https://classroomconnect-frontend.onrender.com/",
+    "video": "https://www.youtube.com/watch?v=2uBh8MiG7jk",
+    "source": "https://github.com/jchodon/classroom-connect-mern"
   },
   {
     "title": "Project B",
