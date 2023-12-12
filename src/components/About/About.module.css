@@ -57,7 +57,9 @@
   font-size: 25px;
   font-weight: 600;
 }
-
+.aboutItem img {
+  margin-right: 10px;
+}
 .aboutItem p {
   font-size: 25px;
 }

@@ -12,7 +12,7 @@ function About() {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/servericon.png")} alt="cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>FullStack Developer</h3>
+              <h3>Full-Stack Developer</h3>
               <p>
                 As a full-stack developer, I blend front-end elegance with
                 back-end efficiency, creating responsive and optimized web

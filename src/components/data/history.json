@@ -4,9 +4,10 @@
     "organisation": "Girl Develop It Hackathon",
     "startDate": "November 8 2023",
     "experiences": [
-      "Implemented OAuth for secure authentication",
+      "Implemented JWT tokens for secure authentication",
       "Set up MongoDB for efficient data management",
-      "Facilitated team communication for smooth collaboration"
+      "Facilitated team communication for smooth collaboration",
+      "Secured 2nd place at GDI Hackathon 2023 due to the help from my team and the organizers!"
     ],
     "imageSrc": "history/GDI.png"
   },
