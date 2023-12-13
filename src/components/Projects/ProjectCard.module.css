@@ -16,12 +16,13 @@
   height: 200px;
 }
 .title {
-  font-size: 25px;
+  font-size: 38px;
   font-weight: 900;
+  color: var(--color-secondText);
 }
 .description {
   margin-top: 6px;
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 400;
 }
 .skills {
