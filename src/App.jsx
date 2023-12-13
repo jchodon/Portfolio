@@ -1,9 +1,8 @@
-// eslint-disable-next-line no-unused-vars
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
-import Projects from "./components/projects/projects";
+import Projects from "./components/Projects/Projects";
 import Experience from "./components/Experience/Experience";
 import Contact from "./components/Contact/Contact";
 // @ts-ignore
