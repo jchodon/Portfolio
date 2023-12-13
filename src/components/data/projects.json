@@ -3,7 +3,7 @@
     "title": "Class Connect",
     "imageSrc": "projects/classConnect.png",
     "description": "Classroom Connect combines video conferencing and live chat for an enhanced classroom experience.",
-    "skills": ["JavaScript", "React", "Express", "Node", "MongoDB", "Git"],
+    "skills": ["JavaScript", "React", "Node", "Express", "Git", "MongoDB"],
     "demo": "https://classroomconnect-frontend.onrender.com/",
     "video": "https://www.youtube.com/watch?v=2uBh8MiG7jk",
     "source": "https://github.com/jchodon/classroom-connect-mern"
