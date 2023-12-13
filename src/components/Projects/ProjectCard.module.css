@@ -7,8 +7,8 @@
   background: linear-gradient(180deg, #a3b18a 0%, #52796f 100%);
   box-shadow: 0 16px 14px 0 #344e41;
   padding: 28px 24px;
-  height: 70vh;
-  max-width: 345px;
+  height: 72vh;
+  max-width: 340px;
 }
 
 .image {
@@ -37,7 +37,7 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
@@ -46,7 +46,8 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  margin-top: 20px;
+  margin-bottom: 10px;
   display: flex;
   justify-content: space-around;
 }
@@ -54,7 +55,7 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);

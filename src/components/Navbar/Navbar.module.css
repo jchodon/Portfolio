@@ -33,6 +33,7 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  margin-left: 50px;
 }
 @media screen and (min-width: 831px) {
   .menuBtn {
