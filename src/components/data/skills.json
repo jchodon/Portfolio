@@ -28,6 +28,10 @@
     "imageSrc": "skills/express.png"
   },
   {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
     "title": "Vite",
     "imageSrc": "skills/vite.png"
   }
