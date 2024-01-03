@@ -9,12 +9,19 @@
     "source": "https://github.com/jchodon/classroom-connect-mern"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/yelpcamp.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "AI Image Generator",
+    "imageSrc": "projects/dalle.png",
+    "description": "This AI Image Generation App uses the OpenAI API(DALL-E) for the creation and management of a gallery of unique, AI-generated images",
+    "skills": [
+      "React",
+      "Express",
+      "Tailwind CSS",
+      "Cloudinary",
+      "Javascript",
+      "MongoDB"
+    ],
+    "demo": "https://jc-aiimagegen.netlify.app/",
+    "source": "https://github.com/jchodon/AI-image-generation-with-DALL-E"
   },
   {
     "title": "Project C",
