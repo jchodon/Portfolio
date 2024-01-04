@@ -9,6 +9,7 @@
   padding: 28px 24px;
   height: 72vh;
   max-width: 340px;
+  block-size: fit-content;
 }
 
 .image {
