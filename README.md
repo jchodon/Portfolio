@@ -11,6 +11,6 @@ This project is a personal portfolio website built using React, showcasing skill
 
 ### Contact 
 
-> [https://jigmechodon.netlify.app/](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
+> [https://jigmechodon.com](https://www.jigmechodon.com) &nbsp;&middot;&nbsp;
 > GitHub [@jchodon](https://github.com/jchodon) &nbsp;&middot;&nbsp;
 > LinkedIn [@jigmeC](https://www.linkedin.com/in/jigmec/)
