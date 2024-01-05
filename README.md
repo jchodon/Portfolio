@@ -1,8 +1,16 @@
-# React + Vite
+# Portfolio website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a personal portfolio website built using React, showcasing skills, projects, and experiences. It is created with Vite, a modern frontend build tool, and styled using CSS with fonts from Montserrat and Outfit.
 
-Currently, two official plugins are available:
+# Features
+* React 18: Utilizes the latest features of React for efficient UI rendering.
+* Responsive Design: Crafted with a responsive layout for optimal viewing on various devices.
+* Modern JavaScript: Written in modern JavaScript, leveraging the latest language features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-01-03 at 3 08 03 PM](https://github.com/jchodon/Portfolio/assets/130493729/b836e536-9a30-4778-a4ea-8610f8d62878)
+
+### Contact 
+
+> [https://jigmechodon.com](https://www.jigmechodon.com) &nbsp;&middot;&nbsp;
+> GitHub [@jchodon](https://github.com/jchodon) &nbsp;&middot;&nbsp;
+> LinkedIn [@jigmeC](https://www.linkedin.com/in/jigmec/)
