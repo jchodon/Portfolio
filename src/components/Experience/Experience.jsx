@@ -31,7 +31,7 @@ function Experience() {
                 />
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role} ${historyItem.organisation}`}</h3>
-                  <h3>{`${historyItem.startDate}`}</h3>
+                  <h3>{`-${historyItem.startDate}`}</h3>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
                       return <li key={id}> {experience}</li>;

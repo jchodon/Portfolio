@@ -28,9 +28,9 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>Creative Thinker</h3>
               <p>
-                Beyond code, my creativity flourishes in crochet/knit, a hobby
-                that intertwines the threads of creativity and precicion- much
-                like my approach to coding and design.
+                Beyond code, my creativity flourishes in crochet/knit. Where I
+                create an end product together stitch by stitch, much like how I
+                build my applications.
               </p>
             </div>
           </li>

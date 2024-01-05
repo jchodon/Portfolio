@@ -3,28 +3,32 @@
 .container {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   border-radius: 10px;
   background: linear-gradient(180deg, #a3b18a 0%, #52796f 100%);
-  box-shadow: 0 16px 14px 0 #344e41;
+  box-shadow: 0 20px 20px 0 #587466;
   padding: 28px 24px;
-  height: 72vh;
+  height: 620px;
   max-width: 340px;
-  block-size: fit-content;
+  /* block-size: fit-content; */
 }
-
+.container:hover {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0, 0, 0, 0.11), 0 24px 46px #38524c;
+}
 .image {
   margin-bottom: 26px;
   width: 298px;
   height: 200px;
 }
 .title {
-  font-size: 38px;
+  font-size: 30px;
   font-weight: 900;
   color: var(--color-secondText);
 }
 .description {
   margin-top: 6px;
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 400;
 }
 .skills {
@@ -38,7 +42,7 @@
 }
 
 .skill {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
@@ -56,16 +60,16 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 600;
-  border-radius: 100px;
+  border-radius: 5px;
   background: var(--color-primary);
   padding: 1px 22px;
 }
 .link:hover {
   background-color: #03045e;
   transition: 1s;
-  box-shadow: 5px 5px 5px 5px rgb(142, 154, 175);
+  box-shadow: 2px 2px 2px 2px rgb(142, 154, 175);
 }
 @media screen and (max-width: 800px) {
   .title {

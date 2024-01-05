@@ -4,6 +4,9 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 .title {
   font-size: 35px;
