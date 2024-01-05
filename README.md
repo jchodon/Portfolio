@@ -1,6 +1,6 @@
 # Portfolio website
 
-This project is a personal portfolio website built using React, showcasing skills, projects, and experiences. It is created with Vite, a modern frontend build tool, and styled using CSS with fonts from Montserrat and Outfit.
+This project is a personal portfolio website built using React, showcasing skills, projects, and experiences. It is created with Vite, a modern frontend build tool, and styled using CSS Modules with fonts from Montserrat and Outfit.
 
 # Features
 * React 18: Utilizes the latest features of React for efficient UI rendering.
