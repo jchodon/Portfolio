@@ -10,6 +10,7 @@
   padding: 28px 24px;
   height: 620px;
   max-width: 340px;
+  z-index: 1;
   /* block-size: fit-content; */
 }
 .container:hover {
